@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/row_box"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="2dp"
+    android:background="@drawable/card"
+    android:divider="@android:color/transparent">
+
+    <ImageView
+        android:id="@+id/movie_poster"
+        android:layout_width="114dp"
+        android:layout_height="175dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@null"
+        android:focusable="false"
+        android:scaleType="centerCrop"
+        android:src="@drawable/poster" />
+
+
+
+    <ImageView
+        android:id="@+id/movie_detail"
+        android:layout_width="60dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="46dp"
+        android:layout_marginLeft="290dp"
+        android:contentDescription="@null"
+        android:focusable="false"
+        android:src="@drawable/ic_keyboard_arrow_right_black_24dp" />
+
+
+    <android.support.v7.widget.LinearLayoutCompat
+        android:id="@+id/grid"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginTop="15dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/movie_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="125dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="LORD OF THE RINGS"
+            android:textColor="@color/color_blue"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/movie_rated"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="125dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="R"
+            android:textColor="@color/color_dark_gray"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/movie_duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="125dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="98 minutes"
+            android:textColor="@color/color_dark_gray"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/movie_released"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="125dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="Release date: Feb 8, 2008"
+            android:textColor="@color/color_dark_gray"
+            android:textSize="12sp" />
+
+
+
+    </android.support.v7.widget.LinearLayoutCompat>
+
+
+</RelativeLayout>

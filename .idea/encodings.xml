@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/mybestmovies/omdb/controller/ControllerRecentSearchGlobal.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/mybestmovies/omdb/controller/provider/RecentSearchContentApp.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/mybestmovies/omdb/model/BO/SharedPreferencesUtils.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/mybestmovies/omdb/view/adapter/SearchAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/mybestmovies/omdb/view/adapter/SuggesttionGlobalAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/mybestmovies/omdb/view/holder/AbstractHolder.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/mybestmovies/omdb/view/interfaces/IListenersViews.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/card.9.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_add_white_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_do_not_disturb_black_48dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_keyboard_arrow_right_black_24dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_remove_white_48dp.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/imdb_ic_search.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/imdb_ic_search_history.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/movie_projector.gif" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/no_movie.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/poster.jpg" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/movie_item.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/suggesttion_movie_item.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-w820dp/attrs.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/xml/searchable_global.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

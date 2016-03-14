@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:hint="Pesquisar"
+    android:includeInGlobalSearch="false"
+    android:voiceSearchMode="showVoiceSearchButton|launchRecognizer"
+    android:icon="@drawable/imdb_ic_search"
+    android:searchSuggestAuthority="com.samsung.arcon.controller.provider.RecentSearchContentApp"
+    android:searchSuggestThreshold="3"
+    android:searchSuggestSelection=" ?">
+
+</searchable>
